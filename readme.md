@@ -12,7 +12,7 @@ Rule Set:
 3. electron tail(red) → conductor(yellow)
 4. conductor(yellow) → electron head(blue) if exactly one or two of the neighbouring cells are electron heads, otherwise remains conductor(yellow).
 
-![Alt text](https://github.com/mmgrant73/langtonsant/blob/master/wireworld.png?raw=true "Image-WireWorld")
+![Alt text](https://github.com/mmgrant73/wireworld/blob/master/wireworld.png?raw=true "Image-WireWorld")
 
 [For more infomation:](https://en.wikipedia.org/wiki/Wireworld) 
 
